@@ -1,0 +1,353 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>IPC Media - the UK&#039;s leading consumer magazine and digital publisher</title>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="title" content="IPC Media - the UK&#039;s leading consumer magazine and digital publisher" />
+<meta name="keywords" content="IPC Media, consumer magazines, digital publisher" />
+<meta name="description" content="IPC Media is the UK&#039;s leading consumer magazine and digital publisher" />
+<meta name="language" content="en" />
+<meta name="robots" content="index, follow" />
+                <link rel="icon" href="favicon.ico" type="image/x-icon" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		<link rel="stylesheet" type="text/css" media="screen" href="http://yui.yahooapis.com/combo?3.3.0/build/cssreset/reset-min.css&amp;3.4.0/build/cssfonts/fonts-min.css&amp;3.4.0/build/cssbase/base.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/ipc_main.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/ipc_fonts.css" />
+
+		<!--[if lte IE 6]><link type="text/css" rel="stylesheet" href="/css/ipc_ie6.css" media="screen" /><![endif]-->
+		<!--[if IE 7]><link type="text/css" rel="stylesheet" href="/css/ipc_ie7.css" media="screen" /><![endif]-->
+
+		<script type="text/javascript" src="http://yui.yahooapis.com/3.4.0/build/yui/yui-min.js"></script>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="/js/ipc_features.js"></script>
+<script type="text/javascript" src="/js/ipc_rotator.js"></script>
+	</head>
+
+	<body id="homepage">
+		<script type="text/javascript">
+                    var body = document.getElementsByTagName('body')[0];
+                    body.className = (body.className == null) ? 'js' : body.className + ' js';
+		</script>
+                
+<!-- SiteCatalyst code version: H.16.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/js/H.16.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+var s_account="ipcipcmediaprod"
+var s=s_gi(s_account)
+/************************** CONFIG SECTION **************************/
+/* You may add or alter any code config here. */
+s.charSet="ISO-8859-1"
+/* Conversion Config */
+s.currencyCode="GBP"
+/* Link Tracking Config */
+s.trackDownloadLinks=true
+s.trackExternalLinks=true
+s.trackInlineStats=true
+s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls"
+s.linkInternalFilters="javascript:,ipcmediasecure.com,ipcmedia.com,ipcmedia.co.uk,pagead2.googlesyndication.com"
+s.linkLeaveQueryString=false
+s.linkTrackVars="None"
+s.linkTrackEvents="None"     
+    
+s.pageName=""
+s.server="balancer.ipcweb5"
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4="/"
+s.prop5=""
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://ipcipcmediaprod.122.2O7.net/b/ss/ipcipcmediaprod/1/H.16--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.16. -->		<div id="outerwrapper">
+			<div id="header">
+				<div id="IPClogo"><a href="/">IPC | MEDIA</a></div>
+				<ul class="navigation">
+    <li id="brandsNav" class="sub"><a href="/brands">brands</a>        <div class="menuContainer">
+            <div id="brandsNavContainer">
+                        <ul class="column1">
+                                                        <li><span>country pursuits & equestrian</span>                                <ul>
+                                                                        <li><a href="/countrylife">Country Life</a></li>
+                                                                        <li><a href="/eventing">Eventing</a></li>
+                                                                        <li><a href="/horse">Horse</a></li>
+                                                                        <li><a href="/horseandhound">Horse &amp; Hound </a></li>
+                                                                </ul>
+                        </li>
+                                                                <li class="section"><span>fashion & beauty</span>                                <ul>
+                                                                        <li><a href="/instyle">InStyle</a></li>
+                                                                        <li><a href="/look">Look</a></li>
+                                                                        <li><a href="/marieclaire">Marie Claire</a></li>
+                                                                        <li><a href="/now">Now</a></li>
+                                                                </ul>
+                        </li>
+                                                                <li class="section"><span>home interest</span>                                <ul>
+                                                                        <li><a href="/25-beautiful-homes">25 Beautiful Homes</a></li>
+                                                                        <li><a href="/beautifulkitchens">Beautiful Kitchens</a></li>
+                                                                        <li><a href="/countryhomesandinteriors">Country Homes &amp; Interiors</a></li>
+                                                                        <li><a href="/homesandgardens">Homes &amp; Gardens</a></li>
+                                                                        <li><a href="/housetohome">HousetoHome</a></li>
+                                                                        <li><a href="/idealhome">Ideal Home</a></li>
+                                                                        <li><a href="/livingetc">Livingetc</a></li>
+                                                                        <li><a href="/styleathome">Style at Home</a></li>
+                                                                </ul>
+                        </li>
+                                                </ul>
+                    <ul class="column2">
+                                                        <li><span>lifestyle</span>                                <ul>
+                                                                        <li><a href="/essentials">Essentials</a></li>
+                                                                        <li><a href="/wallpaper">Wallpaper*</a></li>
+                                                                        <li><a href="/womanandhome">woman&amp;home</a></li>
+                                                                        <li><a href="/womanandhomefeelgoodfood">woman&amp;home Feel Good Food</a></li>
+                                                                        <li><a href="/womanandhomefeelgoodyou">woman&amp;home Feel Good You</a></li>
+                                                                </ul>
+                        </li>
+                                                                <li class="section"><span>sport & leisure</span>                                <ul>
+                                                                        <li><a href="/amateurgardening">Amateur Gardening</a></li>
+                                                                        <li><a href="/amateurphotographer">Amateur Photographer</a></li>
+                                                                        <li><a href="/anglersmail">Angler&#039;s Mail</a></li>
+                                                                        <li><a href="/cyclesport">Cycle Sport</a></li>
+                                                                        <li><a href="/cyclingactive">Cycling Active</a></li>
+                                                                        <li><a href="/cyclingfitness">Cycling Fitness</a></li>
+                                                                        <li><a href="/cyclingweekly">Cycling Weekly</a></li>
+                                                                        <li><a href="/decanter">Decanter</a></li>
+                                                                        <li><a href="/golfmonthly">Golf Monthly</a></li>
+                                                                        <li><a href="/ibi">International Boat Industry</a></li>
+                                                                        <li><a href="/mbr">Mountain Bike Rider</a></li>
+                                                                        <li><a href="/motorboatandyachting">Motor Boat &amp; Yachting</a></li>
+                                                                        <li><a href="/motorboatsmonthly">Motor Boats Monthly</a></li>
+                                                                </ul>
+                        </li>
+                                                </ul>
+                    <ul class="column3">
+                                                        <li>                                <ul>
+                                                                        <li><a href="/practicalboatowner">Practical Boat Owner</a></li>
+                                                                        <li><a href="/rugbyworld">Rugby World</a></li>
+                                                                        <li><a href="/shootinggazette">Shooting Gazette</a></li>
+                                                                        <li><a href="/shootingtimes">Shooting Times</a></li>
+                                                                        <li><a href="/shootinguk">ShootingUK</a></li>
+                                                                        <li><a href="/sportinggun">Sporting Gun</a></li>
+                                                                        <li><a href="/superyachtbusiness">SuperYacht Business</a></li>
+                                                                        <li><a href="/superyachtworld">SuperYacht World</a></li>
+                                                                        <li><a href="/thefield">The Field</a></li>
+                                                                        <li><a href="/trustedreviews">Trusted Reviews</a></li>
+                                                                        <li><a href="/volksworld">Volksworld</a></li>
+                                                                        <li><a href="/vwcamperandbus">VW Camper &amp; Bus</a></li>
+                                                                        <li><a href="/whatdigitalcamera">What Digital Camera</a></li>
+                                                                        <li><a href="/worldsoccer">World Soccer</a></li>
+                                                                        <li><a href="/yachtingmonthly">Yachting Monthly</a></li>
+                                                                        <li><a href="/yachtingworld">Yachting World</a></li>
+                                                                        <li><a href="/ybw">YBW.com</a></li>
+                                                                </ul>
+                        </li>
+                                                                <li class="section"><span>teen</span>                                <ul>
+                                                                        <li><a href="/teen-now">Teen Now</a></li>
+                                                                </ul>
+                        </li>
+                                                </ul>
+                    <ul class="column4">
+                                                        <li><span>tv entertainment</span>                                <ul>
+                                                                        <li><a href="/soaplife">Soaplife</a></li>
+                                                                        <li><a href="/tvandsatelliteweek">TV &amp; Satellite Week</a></li>
+                                                                        <li><a href="/tveasy">TVeasy</a></li>
+                                                                        <li><a href="/tvtimes">TV Times</a></li>
+                                                                        <li><a href="/whatsontv">What&#039;s on TV</a></li>
+                                                                </ul>
+                        </li>
+                                                                <li class="section"><span>women's weeklies</span>                                <ul>
+                                                                        <li><a href="/chat">Chat</a></li>
+                                                                        <li><a href="/chatitsfate">Chat it&#039;s Fate</a></li>
+                                                                        <li><a href="/feelgoodgames">Feelgood Games</a></li>
+                                                                        <li><a href="/goodtoknowrecipes">Good To Know Recipes</a></li>
+                                                                        <li><a href="/good-to-know">Good To Know</a></li>
+                                                                        <li><a href="/pickmeup">Pick Me Up</a></li>
+                                                                        <li><a href="/woman">Woman</a></li>
+                                                                        <li><a href="/woman-special-series">Woman Special Series</a></li>
+                                                                        <li><a href="/womansown">Woman&#039;s Own</a></li>
+                                                                        <li><a href="/woman-s-own-lifestyle-series">Woman&#039;s Own Lifestyle Series</a></li>
+                                                                        <li><a href="/womansweekly">Woman&#039;s Weekly</a></li>
+                                                                        <li><a href="/woman-s-weekly-fiction">Woman&#039;s Weekly Fiction Series</a></li>
+                                                                        <li><a href="/woman-s-weekly-home-series">Woman&#039;s Weekly Home Series</a></li>
+                                                                </ul>
+                        </li>
+                                                </ul>
+                    <ul class="column5">
+                                                        <li>                                <ul>
+                                                                        <li><a href="/woman-s-weekly-living-series">Woman&#039;s Weekly Living Series</a></li>
+                                                                </ul>
+                        </li>
+                                                                <li class="section"><span>young men & music</span>                                <ul>
+                                                                        <li><a href="/mousebreaker">Mousebreaker</a></li>
+                                                                        <li><a href="/nme">NME</a></li>
+                                                                        <li><a href="/nuts">Nuts</a></li>
+                                                                        <li><a href="/uncut">Uncut</a></li>
+                                                                </ul>
+                        </li>
+                                                </ul>
+                        </div>
+        </div>
+    </li>
+    <li id="advertiseNav"><a href="http://www.ipcadvertising.com/">Advertise</a></li>
+    <li id="aboutNav" class="sub"><a href="/about">about us</a>            <ul class="menuContainer">
+                    <li><a href="/about">About us</a></li>
+                    <li><a href="/about/divisions">Divisions</a></li>
+                    <li><a href="/about/directors">Board of directors </a></li>
+                    <li><a href="/about/responsibility">Corporate responsibility</a></li>
+                    <li><a href="/about/dobusiness">Do business with us</a></li>
+                    <li><a href="/about/licensingandsyndication">Licensing &amp; Syndication</a></li>
+            </ul>
+    </li>
+    <li id="subscribeNav"><a href="http://www.magazinesdirect.com">subscribe</a></li>
+
+    <li id="careersNav" class="sub"><a href="/careers">careers</a>            <ul class="menuContainer">
+                    <li><a href="/careers">Careers at IPC</a></li>
+                    <li><a href="/careers/benefits">Benefits</a></li>
+                    <li><a href="/careers/learning">Developing you and your career</a></li>
+                    <li><a href="/careers/work-experience">Work experience</a></li>
+                    <li><a href="/careers/breaking-into-the-industry">Breaking into the industry</a></li>
+            </ul>
+    </li>
+    <li id="newsNav" class="sub"><a href="/news">News &amp; media</a>            <ul class="menuContainer">
+                    <li><a href="/news/pressbriefingcentre">Press Briefing Centre</a></li>
+            </ul>
+    </li>
+    <li id="contactsNav"><a href="/contacts">Contacts</a></li>
+</ul>
+				<form method="get" id="searchBar" action="/search">	<fieldset>
+		<input type="text" name="q" class="field" id="q" /><input type="submit" name="submit" class="blueButton" value="Search"/>
+	</fieldset>
+</form>			</div>
+
+			
+			<div id="introduction">
+	<div id="whoWeAre">
+		<h2>IPC Media is the UK's leading consumer magazine and digital publisher</h2>
+<p>With more than 60 iconic media brands, IPC creates content for multiple platforms, across print, online, mobile, tablets and events. We engage with 26 million UK adults - almost two thirds of UK women and over 40% of UK men. Our award winning portfolio of websites reaches over 25 million global users every month.</p>		<a href="/brands">our brands &raquo;</a>	</div>
+		<ul id="rotator">
+                    <li>
+                <a href="/woman"><img src="http://default.media.ipcdigital.co.uk/300/00000016c/c2c4_orh100000w720/rotator-woman.jpg" /></a>            </li>
+                     <li>
+                <a href="/golfmonthly"><img src="http://default.media.ipcdigital.co.uk/300/000000124/7ca6_orh100000w720/rotator-golfmonthly.jpg" /></a>            </li>
+                     <li>
+                <a href="/womanandhome"><img src="http://default.media.ipcdigital.co.uk/300/000000128/abc3_orh100000w720/rotator-womanhome.jpg" /></a>            </li>
+                     <li>
+                <a href="/yachtingworld"><img src="http://default.media.ipcdigital.co.uk/300/00000012a/39dd_orh100000w720/rotator-yachtingworld.jpg" /></a>            </li>
+                     <li>
+                <a href="/countrylife"><img src="http://default.media.ipcdigital.co.uk/300/000000122/b12b_orh100000w720/rotator-countrylife.jpg" /></a>            </li>
+                     <li>
+                <a href="/now"><img src="http://default.media.ipcdigital.co.uk/300/00000076c/7e89_orh100000w720/ipc-rotator-NOW-MAGAZINE.jpg" /></a>            </li>
+                     <li>
+                <a href="/whatsontv"><img src="http://default.media.ipcdigital.co.uk/300/000000129/3552_orh100000w720/rotator-wotv.jpg" /></a>            </li>
+                     <li>
+                <a href="/marieclaire"><img src="http://default.media.ipcdigital.co.uk/300/000000125/231c_orh100000w720/rotator-marieclaire.jpg" /></a>            </li>
+                     <li>
+                <a href="/good-to-know"><img src="http://default.media.ipcdigital.co.uk/300/000000123/c53a_orh100000w720/rotator-g2k.jpg" /></a>            </li>
+                     <li>
+                <a href="/idealhome"><img src="http://default.media.ipcdigital.co.uk/300/000000565/3398_orh100000w720/ipc-rotator-idealhome-4.jpg" /></a>            </li>
+                     <li>
+                <a href="/nme"><img src="http://default.media.ipcdigital.co.uk/300/000000126/2cb9_orh100000w720/rotator-nme.jpg" /></a>            </li>
+         	</ul>
+	
+</div>
+
+<div class="relatedContent">
+        <ul>
+        <li class="first">
+                    <h3><a href="http://www.ipcadvertising.com/">Advertise With Us</a></h3>
+                    <div>
+                        <a href="http://www.ipcadvertising.com/">
+                        IPC Advertising offers clients and agencies access to IPC Media's unparalleled range of over 60 brands                         
+                                                        <img class="inset" src="http://default.media.ipcdigital.co.uk/300/00000028b/069f_orh100000w190/Advert1-190-205.jpg" />                                                </a>
+                    </div>
+                </li>
+        <li>
+                    <h3><a href="http://www.ipcmedia.com/careers">Work With Us</a></h3>
+                    <div>
+                        <a href="http://www.ipcmedia.com/careers">
+                        IPC offers its employees a competitive salary, a wide range of benefits and an award-winning working environment.                         
+                                                        <img class="inset" src="http://default.media.ipcdigital.co.uk/300/0000002fc/f38c_orh100000w190/HOME-PAGE-CAREERS.jpg" />                                                </a>
+                    </div>
+                </li>
+        <li>
+                    <h3><a href="http://www.magazinesdirect.com">Subscribe</a></h3>
+                    <div>
+                        <a href="http://www.magazinesdirect.com">
+                        Great offers on your favourite IPC magazines - make sure you never miss an issue, or treat someone with a gift.                         
+                                                        <img class="inset" src="http://default.media.ipcdigital.co.uk/300/00000016a/b39b_orh100000w190/subscribe-mags.jpg" />                                                </a>
+                    </div>
+                </li>
+            </ul> 
+</div>
+<div class="newsList img">
+    <h2><a href="/news/latestnews">Latest News &raquo;</a></h2>
+    <ul>
+                <li>
+            <h3><a href="/news/latestnews/nuts-celebrates-apple-newsstand-success">NUTS CELEBRATES APPLE NEWSSTAND SUCCESS </a></h3><div class="date">February 22, 2013</div>
+            <a href="/news/latestnews/nuts-celebrates-apple-newsstand-success"><img src="http://default.media.ipcdigital.co.uk/300/000000aa5/a81d_orh100000w100/nuts-app-M.jpg" /></a></li>
+                <li>
+            <h3><a href="/news/latestnews/the-cribs-to-be-honoured-with-the-teenage-cancer-trust-outstanding-contribution-to-music-award">THE CRIBS TO BE HONOURED WITH THE TEENAGE CANCER TRUST OUTSTANDING CONTRIBUTION TO MUSIC AWARD
+</a></h3><div class="date">February 18, 2013</div>
+            <a href="/news/latestnews/the-cribs-to-be-honoured-with-the-teenage-cancer-trust-outstanding-contribution-to-music-award"><img src="http://default.media.ipcdigital.co.uk/300/000000a59/7712_orh100000w100/NME-Awards-2013-LANDSCAPELOGO.jpg" /></a></li>
+                <li>
+            <h3><a href="/news/latestnews/ipc-media-abc-figures-july-december-2012">IPC MEDIA ABC FIGURES: JULY TO DECEMBER 2012</a></h3><div class="date">February 14, 2013</div>
+            <a href="/news/latestnews/ipc-media-abc-figures-july-december-2012"><img src="http://default.media.ipcdigital.co.uk/300/000000aa4/e760_orh100000w100/abc-T.jpg" /></a></li>
+        </ul>
+</div>
+
+                        <div id="footer">
+    <ul id="tier2" class="nav">
+            <li><a href="/">home</a></li>
+            <li><a href="/brands">brands</a></li>
+            <li><a href="http://www.ipcadvertising.com/">advertise</a></li>
+            <li><a href="/about">about us</a></li>
+            <li><a href="http://www.magazinesdirect.com">subscribe</a></li>
+            <li><a href="/careers">careers</a></li>
+            <li><a href="/news">News &amp; Media</a></li>
+            <li><a href="/contacts">contacts</a></li>
+    </ul>
+    <ul id="tier3" class="nav">
+            <li><a href="/terms">Terms and Conditions</a></li>
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/feedback">Feedback</a></li>
+            <li><a href="http://www.timewarner.com">Time Warner</a></li>
+            <li><a href="http://www.timeinc.com/">Time Inc</a></li>
+            <li><a href="/contacts">How to find us</a></li>
+            <li><a href="/faqs">FAQs</a></li>
+            <li><a href="/sitemap">Sitemap</a></li>
+            <li><a href="/raceonline">Race for Life</a></li>
+    </ul>
+    <p>&copy; Copyright IPC Media Ltd, all rights reserved. IPC Media Limited. Registered Office: Blue Fin Building, 110 Southwark Street, London SE1 0SU.<br />Registered in England and Wales no. 00053626.</p>
+    <img src="/img/logos/ipc-media-sm.png" id="IPC-Sm" width="171" height="45" alt="IPC | MEDIA - A Time Warner Company" />
+    <a href="/raceonline"><img src="/img/logos/race-online-2012.gif" id="race-online-2012" width="71" height="34" alt="Race online 2012"/></a></div>		</div>
+		<div class="horizon">
+			<div class="mapBox hide">
+				<a href="#" id="mapClose">close</a>
+				<div id="mapCanvas"></div>
+			</div>
+		</div>
+		<div id="overlay" class="hide"></div>
+                <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>                
+	</body>
+</html>
